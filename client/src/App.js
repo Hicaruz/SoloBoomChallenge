@@ -1,4 +1,5 @@
 import Routes from './routes'
+import "./styles.css"
 function App() {
   return <div><Routes/></div>
 }
